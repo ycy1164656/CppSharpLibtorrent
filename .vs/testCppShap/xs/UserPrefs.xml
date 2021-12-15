@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A698E677-9004-484A-8510-D134980D1A26}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testCppShap/SharpLibtorrent.cs">
+    <Files>
+      <File FileName="testCppShap/Program.cs" Line="9" Column="48" />
+      <File FileName="testCppShap/SharpLibtorrent.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testCppShap" expanded="True">
+            <Node name="testCppShap" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="libtorrent" expanded="True">
+                <Node name="include" expanded="True">
+                  <Node name="libtorrent" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="SharpLibtorrent.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.testCppShap PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
